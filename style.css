@@ -901,10 +901,10 @@ em:nth-child(3){
         font-size: .8em;
     }
     .hero-section button{
-        width: 30%;
+        width: 50%;
         height: auto;
-        padding: 20px;
-        font-size: 1em;
+        padding: 5%;
+        font-size: .8em;
     }
     .icons{
         width: 8%;
@@ -948,7 +948,7 @@ em:nth-child(3){
         gap: 30px;
     }
     .one-box{
-        width: 50%;
+        width: 70%;
         height: auto;
         flex-wrap: wrap;
     }
@@ -965,8 +965,8 @@ em:nth-child(3){
         height: auto;
     }
     .btn-container button{
-        width: 25%;
-        font-size: 1em;
+        width: 30%;
+        font-size: .9em;
         
     }
     .three-container{
@@ -1124,5 +1124,14 @@ em:nth-child(3){
     .five-topbar h1{
         font-size: 1.1em;
         line-height: 30px;
+    }
+    .two-container{
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+        gap: 30px;
+    }
+    .left-container{
+        width: 70%;
     }
 }
